@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport Layout from '@components/Layout/Layout';\nimport React from 'react';\n\nconst YesOrNo = () => {\n  return __jsx(Layout, null, __jsx(\"div\", null, \"contenido yes or not\"));\n};\n\nexport default YesOrNo;","map":null,"metadata":{},"sourceType":"module"}

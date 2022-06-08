@@ -1,0 +1,21 @@
+.buttonContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.textColor {
+  color: #21ba45 !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  font-size: 7rem;
+  text-transform: uppercase;
+}
