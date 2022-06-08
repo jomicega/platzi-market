@@ -27,14 +27,6 @@
     "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
-    ],
-    "/product/[id]": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/yes-or-no": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
     ]
   }
 }
